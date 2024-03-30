@@ -1,0 +1,15 @@
+{
+  "name": "tsx-vscode-debug-not-working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tenpaMk2 <wavyroom@gmail.com> (https://github.com/tenpaMk2)",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.3"
+  }
+}
